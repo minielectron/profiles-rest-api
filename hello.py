@@ -1,1 +1,0 @@
-print("This is called from vagrant virtual box")
